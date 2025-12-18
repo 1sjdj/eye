@@ -1,0 +1,45 @@
+{
+  "name": "frondend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@jiaminghi/data-view": "^2.10.0",
+    "@zxcvbn-ts/core": "^3.0.4",
+    "@zxcvbn-ts/language-common": "^3.0.4",
+    "axios": "^1.8.4",
+    "core-js": "^3.6.5",
+    "dompurify": "^3.2.5",
+    "echarts": "^5.4.0",
+    "echarts-wordcloud": "^2.1.0",
+    "element-ui": "^2.15.14",
+    "highlight.js": "^11.11.1",
+    "jquery": "^3.7.1",
+    "js-md5": "^0.8.3",
+    "jspdf": "^1.4.1",
+    "jspdf-customfonts": "^0.0.4-rc.4",
+    "lodash-es": "^4.17.21",
+    "marked": "^4.3.0",
+    "particles.js": "^2.0.0",
+    "pdfmake": "^0.2.18",
+    "swiper": "^10.2.0",
+    "vue": "^2.6.11",
+    "vue-password-strength-meter": "^1.7.2",
+    "vue-router": "^3.2.0",
+    "vuex": "^3.6.2",
+    "xlsx": "^0.18.5",
+    "zxcvbn": "^4.4.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.13",
+    "@vue/cli-plugin-router": "~4.5.13",
+    "@vue/cli-plugin-vuex": "~4.5.13",
+    "@vue/cli-service": "~4.5.13",
+    "less": "^3.0.4",
+    "less-loader": "^5.0.0",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
